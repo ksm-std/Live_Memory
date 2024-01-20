@@ -4,7 +4,7 @@
 自分が行ったライブのことを記録できるサービスです。
 出演アーティストや公演名・日程に加え、写真やセットリスト、感想などを記録し、共有できます。
 
-##　 想定されるユーザー層
+## 想定されるユーザー層
 音楽ライブに行くのが好きで、自分が行ったライブについて記録し、思い出を振り返りたい人。
 
 ## サービスコンセプト
@@ -106,3 +106,6 @@ SNSの他の投稿で埋もれてしまいがちなライブの大切な思い�
 
 # 画面遷移図
 https://www.figma.com/file/2YQXPgWphelfc8g3YSsTzn/%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3?type=design&node-id=0%3A1&mode=design&t=nJ4GQUYnBUhYGOlE-1
+
+# ER図
+[![Image from Gyazo](https://i.gyazo.com/9a63b453d16cd8a480c2ab010dac091c.png)](https://gyazo.com/9a63b453d16cd8a480c2ab010dac091c)
