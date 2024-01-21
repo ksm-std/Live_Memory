@@ -108,4 +108,4 @@ SNSの他の投稿で埋もれてしまいがちなライブの大切な思い�
 https://www.figma.com/file/2YQXPgWphelfc8g3YSsTzn/%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3?type=design&node-id=0%3A1&mode=design&t=nJ4GQUYnBUhYGOlE-1
 
 # ER図
-[![Image from Gyazo](https://i.gyazo.com/8f9ed7495f825878c2c2d447a8aa4545.png)](https://gyazo.com/8f9ed7495f825878c2c2d447a8aa4545)
+[![Image from Gyazo](https://i.gyazo.com/46e4e7aa1917e2917a4755b5c65b1188.png)](https://gyazo.com/46e4e7aa1917e2917a4755b5c65b1188)
